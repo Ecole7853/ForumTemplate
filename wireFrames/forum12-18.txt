@@ -1,0 +1,10 @@
+GITHUB -CHECK
+finish wireframes
+	-profile -check
+	-create user -check
+	-actual thread 
+	-
+
+
+identify components and begin
+identify potential database types
